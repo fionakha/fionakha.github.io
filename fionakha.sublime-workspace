@@ -1,0 +1,205 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/gchung/Documents/fionakha"
+	],
+	"file_history":
+	[
+		"/Users/gchung/Documents/tmp/at.js",
+		"/Users/gchung/Documents/tmp/toadobe.pub",
+		"/Users/gchung/Documents/OneDrive - Adobe Systems Inc/clients/Velocity VFF/ftp_dpm_11000_1505200569.sync",
+		"/Users/gchung/Documents/tmp/mbox.js",
+		"/Users/gchung/Documents/tmp/wbg/trait_framework_V-1.2",
+		"/Users/gchung/Documents/tmp/wbg/pagename-formula-more-exact.txt",
+		"/Users/gchung/Documents/tmp/anznz/ftp_dpm_137126_1501803961.overwrite.6.processed",
+		"/Users/gchung/Documents/tmp/test.test",
+		"/Users/gchung/Documents/tmp/samsungau/ftp_dpm_136877_1503506838.sync",
+		"/Users/gchung/Documents/tmp/samsungau/ftp_dpm_136877_1503506838.sync.gz.processed",
+		"/Users/gchung/Documents/tmp/anznz/are_kiwisaver.txt",
+		"/Users/gchung/Documents/tmp/anznz/ftp_dpm_137126_1501803961.overwrite.4",
+		"/Users/gchung/Documents/tmp/anznz/ftp_dpm_137126_1817486925.sync.processed",
+		"/Users/gchung/Documents/tmp/wbg/S3_52223_139587_full_1501588161373_id.sync",
+		"/Users/gchung/Documents/tmp/matches.txt",
+		"/Users/gchung/Documents/tmp/friday21/untitled folder/overwrite-matchers-3330102.txt",
+		"/Users/gchung/Documents/tmp/friday21/ftp_dpm_137126_1500590727.sync.processed",
+		"/Volumes/macOS/Users/gchung/Documents/tmp/friday21/ftp_dpm_86390_1499325153.overwrite.1",
+		"/Volumes/macOS/Users/gchung/Documents/tmp/friday21/ftp_dpm_137126_1500493947.sync.processed",
+		"/Users/gchung/Documents/tmp/File 1 for.sync.txt",
+		"/Users/gchung/Documents/tmp/File 2 for.overwrite.txt",
+		"/Users/gchung/Documents/tmp/ftp_dpm_137126_1815311668.sync.txt",
+		"/Users/gchung/Documents/tmp/ftp_dpm_137126_1500493947.sync.processed",
+		"/Users/gchung/Documents/tmp/ftp_dpm_1234_1445374061.overwrite"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"get",
+			"auditAdClass",
+			"https",
+			"secure",
+			"L2",
+			"183",
+			"has_kiwisaver_one_answer",
+			"00009bace166b8100b003c1502c6bbe4b497517bf5d0e900357c24428caa6eda",
+			"3330102",
+			"00002fa02d4d5713b5e38d1d33aab31446845a4017a5996da436cdacfa4d419e",
+			"email_market_permit"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"P2",
+			"2"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "fionakha.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
