@@ -862,10 +862,11 @@ $baseurl: '{{ site.baseurl }}/images';
 		}
 
 		&.special {
-			background-color: _palette(accent6, bg);
+			/*background-color: _palette(accent6, bg);*/
+			background-color: #000000;
 			box-shadow: none !important;
-			color: _palette(accent6, fg-bold) !important;
-
+			/*color: _palette(accent6, fg-bold) !important;*/
+			color: #bf9b30 !important;
 			&:hover {
 				background-color: lighten(_palette(accent6, bg), 5) !important;
 			}
@@ -1381,7 +1382,8 @@ $baseurl: '{{ site.baseurl }}/images';
 
 	#header {
 		@include vendor('transition', 'background-color #{_duration(transitions)} ease');
-		background: _palette(bg);
+		/* background: _palette(bg); */
+		background: #000000;
 		height: 3em;
 		left: 0;
 		line-height: 3em;
