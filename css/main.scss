@@ -100,11 +100,11 @@ $baseurl: '{{ site.baseurl }}/images';
 		/* color: _palette(fg-bold); */
 		font-family: 'Great Vibes', cursive;
 		color: #bf9b30;
-		font-weight: _font(weight-extrabold);
+		/* font-weight: _font(weight-extrabold); */
 		letter-spacing: _size(letter-spacing-alt);
 		line-height: 1em;
 		margin: 0 0 (_size(element-margin) * 0.5) 0;
-		text-transform: uppercase;
+		/*text-transform: uppercase;*/
 
 		a {
 			color: inherit;
