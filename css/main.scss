@@ -40,7 +40,9 @@ $baseurl: '{{ site.baseurl }}/images';
 	}
 
 	body {
-		background: _palette(bg);
+		/*background: _palette(bg);*/
+
+		background: #291709;
 
 		&.is-loading {
 			*, *:before, *:after {
@@ -1088,7 +1090,8 @@ $baseurl: '{{ site.baseurl }}/images';
 					}
 
 					p {
-						color: _palette($p, fg);
+						/* color: _palette($p, fg); */
+						color: #bf9b30;
 					}
 				}
 			}
