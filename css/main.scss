@@ -42,7 +42,7 @@ $baseurl: '{{ site.baseurl }}/images';
 	body {
 		/*background: _palette(bg);*/
 
-		background: #291709;
+		background: #2b2b2b;
 
 		&.is-loading {
 			*, *:before, *:after {
@@ -849,7 +849,7 @@ $baseurl: '{{ site.baseurl }}/images';
 
 		&:hover {
 			/*background-color: _palette(border-bg);*/
-			background-color: #291709;
+			background-color: #2b2b2b;
 
 		}
 
@@ -1058,7 +1058,7 @@ $baseurl: '{{ site.baseurl }}/images';
 		/*background-color: _palette($p, bg);*/
 		/*color: _palette($p, fg);*/
 
-		background-color: #291709;
+		background-color: #2b2b2b;
 		color: #bf9b30;
 
 		// Basic
