@@ -101,12 +101,12 @@ $baseurl: '{{ site.baseurl }}/images';
 		font-family: 'Playfair Display', serif;
 	}
 
-	#land h2 {
+	#land h1, h2 {
 		font-family: 'Parisienne', cursive;
 		color: #bf9b30;
 	}
 
-	#rsvp {
+	#rsvp, #centerme {
 		text-align: center;
 	}
 
